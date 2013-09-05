@@ -1,0 +1,48 @@
+<?php
+/**
+ * MSTW Team Rosters Template for displaying all single player bios.
+ *
+ * NOTE: Plugin users will probably have to modify this template to fit their 
+ * individual themes. This template has been tested in the WordPress 
+ * Twenty Eleven Theme. 
+ *
+ * @package Twenty_Eleven
+ * @subpackage Team_Rosters
+ * @since Team Rosters 1.0
+ */
+
+get_header(); ?>
+
+		<div id="primary">
+			<div id="content" role="main" >
+
+				<?php while ( have_posts() ) : the_post(); ?>					
+
+					<?php get_template_part( 'content', 'single-player' ); ?>
+
+
+<!--
+<nav id="nav-single">
+						<h3 class="assistive-text"><?php _e( 'Post navigation', 'twentyeleven' ); ?></h3>
+						<span class="nav-previous">
+						<?php $back =$_SERVER['HTTP_REFERER'];
+						if( isset( $back ) && $back != '' ) { 
+							echo '<a href="' . $back . '"><span class="meta-nav">&larr;</span>Return to roster</a>';
+						}?>
+							
+							
+						
+						<?php previous_post_link( '%link', __( '<span class="meta-nav">&larr;</span> Previous', 'twentyeleven' ) ); ?></span>
+						
+						<span class="nav-next"><?php next_post_link( '%link', __( 'Next <span class="meta-nav">&rarr;</span>', 'twentyeleven' ) ); ?></span>
+						
+					</nav><!-- #nav-single -->
+
+
+				<?php endwhile; // end of the loop. ?>
+
+			</div><!-- #content -->
+		</div><!-- #primary -->
+<?php get_sidebar(); ?>
+<div class="clearboth"></div>
+<?php get_footer(); ?>

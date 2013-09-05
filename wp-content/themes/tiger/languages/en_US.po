@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: archive.php:38 index.php:17 search.php:20 single.php:15 archive.php:38 index.php:17 search.php:20 single.php:15 archive.php:38 index.php:17 search.php:20 single.php:15
+msgid "0"
+msgstr ""
+
+#: archive.php:89 index.php:65 search.php:70 single.php:53 archive.php:89 index.php:65 search.php:70 single.php:53 archive.php:89 index.php:65 search.php:70 single.php:53
+msgid "Tags"
+msgstr ""
+
+#: archive.php:99 index.php:73 search.php:80 archive.php:99 index.php:73 search.php:80 archive.php:99 index.php:73 search.php:80
+msgid "« Older Entries"
+msgstr ""
+
+#: archive.php:100 index.php:74 search.php:81 archive.php:100 index.php:74 search.php:81 archive.php:100 index.php:74 search.php:81
+msgid "Newer Entries »"
+msgstr ""
+
+#: archive.php:20 archive.php:20 archive.php:20
+msgid "Daily Archives:"
+msgstr ""
+
+#: archive.php:22 archive.php:22 archive.php:22
+msgid "Monthly Archives:"
+msgstr ""
+
+#: archive.php:24 archive.php:24 archive.php:24
+msgid "Yearly Archives:"
+msgstr ""
+
+#: archive.php:26 archive.php:26 archive.php:26
+msgid "Posted By:"
+msgstr ""
+
+#: archive.php:28 archive.php:28 archive.php:28
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:48 index.php:27 search.php:30 single.php:25 archive.php:48 index.php:27 search.php:30 single.php:25 archive.php:48 index.php:27 search.php:30 single.php:25
+msgid "Posted In"
+msgstr ""
+
+#: comments.php:10 comments.php:10 comments.php:10
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:22 comments.php:22 comments.php:22
+msgid "Zero Comments"
+msgstr ""
+
+#: comments.php:22 comments.php:22 comments.php:22
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:22 comments.php:22 comments.php:22
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:55 comments.php:55 comments.php:55
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:55 comments.php:55 comments.php:55
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:62 comments.php:62 comments.php:62
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:69 comments.php:69 comments.php:69
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:13 comments.php:13 comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:44 comments.php:45 comments.php:44 comments.php:45 comments.php:44 comments.php:45
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:74 comments.php:92 comments.php:74 comments.php:92 comments.php:74 comments.php:92
+msgid "Comment"
+msgstr ""
+
+#: comments.php:81 comments.php:81 comments.php:81
+msgid "Name"
+msgstr ""
+
+#: comments.php:84 comments.php:84 comments.php:84
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:87 comments.php:87 comments.php:87
+msgid "Website"
+msgstr ""
+
+#: index.php:80 index.php:80 index.php:80
+msgid "Not Found"
+msgstr ""
+
+#: index.php:81 index.php:81 index.php:81
+msgid "Sorry, but you are looking for something that is not here."
+msgstr ""
+
+#: search.php:13 search.php:13 search.php:13
+msgid "Search Results"
+msgstr ""
+
+#: search.php:87 search.php:87 search.php:87
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: single.php:60 single.php:60 single.php:60
+msgid "About The Author"
+msgstr ""
+
+#: single.php:71 single.php:71 single.php:71
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
